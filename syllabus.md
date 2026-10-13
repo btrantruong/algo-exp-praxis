@@ -18,43 +18,47 @@ This course examines how social media and other information platforms shape ever
 
 The course runs for two semesters (about four hours per week), with an in-class session every **Thursday**.
 
-**Semester 1 (15.10.2026–17.12.2026)** introduces algorithmic curation and experimental research. Alongside the lectures, students develop research questions, study designs, and materials.
+**Semester 1 (15.10.2026–04.03.2027)** introduces algorithmic curation and experimental research. Alongside the lectures, students develop research questions, study designs, and materials.
 
 **Semester 2** focuses on running studies, analyzing data, and interpreting and presenting results.
 
-### Semester 1 Schedule
+### Semester 1 Schedule (Tentative)
 
 | Dates | Lead | Focus |
 |---|---|---|
 | 15.10.2026 | / | Course introduction |
 | 22.10.2026 – 05.11.2026 | Bao | Theoretical background on algorithmic curation (Lectures 1–3) |
 | 12.11.2026 – 26.11.2026 | Kamil | Experimental methods and statistics |
-| 03.12.2026 – 17.12.2026 | / | Checkpoints and brainstorming; topic and mentor selection; 90-minute group mentoring sessions |
-| 10.12.2026 | / | Idea presentation |
+| 03.12.2026 | / | Checkpoints and brainstorming; topic and mentor selection; 90-minute group mentoring sessions |
+| 10.12.2026 | / | Presentation of research proposal |
+| 17.12.2026 | / | Optional mentoring session & Submission of Intro draft |
+| 07.01.2027 – 21.01.2027 | / | Mentoring sessions | 
+| 21.01.2027 | / | Submission of Methods draft| 
+| 28.01.2027 | / | Presentation of final research proposal |
+| 15.03.2027 (TBC in class) | / | Submission of final write-up (Intro & Methods) |
 
 ### Lectures 1–3: Algorithmic Curation
 
-These lectures provide the foundation for students’ research questions.
+These lectures provide the domain knowledge to inform students’ research questions.
 
 1. **What does an algorithmically curated feed do?**
-2. **Effects of curation** — credibility, diversity, information environments, feedback loops, and user control.
+2. **Measurements & Effects of curation** — credibility, diversity, information environments, feedback loops, and user control.
 3. **Literature review** — key studies in the field.
 
-## Grading
+## Grading 
+(First semester) 
 
 ### Components
 
 | Component | Weight | Graded by |
 |---|---|---|
 | Work ethic | 30% | Peer grading of contribution to group work |
-| Research write-up | 45% | Mentor grading and peer review |
-| Presentation | 25% | Mentor grading and peer review |
+| Final write-up | 45% | Mentor grading |
+| Presentation | 25% | Mentor grading & peer rating |
 
-*These proposed weights may be adjusted before the course begins.*
+### How to choose a project? 
 
-### Proposal Evaluation Dimensions
-
-Proposals need not maximize every dimension, but they should make a compelling trade-off among them:
+A project can contribute through a more realistic/manipulable algorithmic intervention, or through richer measurement of human response—but it needs sufficient sophistication on at least one side. When thinking about the project, it's useful to 
 
 - **Intervention depth** — Is the algorithmic or design manipulation meaningful and clearly specified?
 - **Experimental leverage** — Can the study plausibly identify a causal effect?
