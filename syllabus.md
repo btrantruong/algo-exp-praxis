@@ -71,9 +71,8 @@ These lectures provide the domain knowledge to inform students’ research quest
 A project can contribute through a more realistic/manipulable algorithmic intervention, or through richer measurement of human response—but it needs sufficient sophistication on at least one side. When thinking about the project, it's useful to think about these aspects: 
 
 - Intervention depth — Is the algorithmic or design manipulation meaningful and clearly specified?
-- Experimental leverage — Can the study plausibly identify a causal effect?
 - Measurement depth — Does it capture more than one generic attitude item?
-- Process evidence — Does it reveal how or why the effect occurred?
+- Explanability — Can the study plausibly identify a causal effect? If everything goes well, does the study design reveal how or why the effect occurred?
 - Feasibility — Can it be built, piloted, run, and analyzed within the course?
 
 ### Choosing a Scope
