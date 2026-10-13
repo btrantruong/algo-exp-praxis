@@ -1,58 +1,86 @@
-## Course description 
+# Understanding Algorithmic Curation Through Experimentation
 
-This course explores how the design of social media and other information platforms affects people’s everyday choices. We will study questions such as: What gets shown first? What makes information seem popular or trustworthy? What happens when users can shape their own feeds? And how can platforms help people assess questionable information without simply deciding for them what to believe?
+**Instructors:** Kamil Fuławka · Bao T. Truong
+**Duration:** Two semesters · Starts 15.10.2026
+**Location:** BZW/A255 (default) or on Zoom (TBA in previous week)
+---
 
-## Course structure
-2 semester ( ~4 hours per week with one in-class lecture. Every Thursday) . 
-In the first semester (starting from 15.10.2026 — 17.12.2026), the course introduces relevant concepts behind the experiment framework and algorithms, while students simultaneously develop their research questions, experimental designs, and study materials. 
+## Course Description
 
-In the second semester, they will conduct the experiment, analyze the data, interpret, and present their findings.
+This course examines how social media and other information platforms shape everyday decisions. Students will investigate questions such as:
 
-### Break down of first semester 
-Oct 22 - Nov 5 (Bao): Give students theoretical background to come up with RQs
-learning about different aspects of algorithmic curation (Lecture 1: What does an algorithmically curated feed do?, Lecture 2: Algorithmic effects, (Credibility, diversity, and healthy information environments), feedback loops, and user control, Lecture 3: A literature review of studies in this space ) 
-Nov 12 - 26 (Kamil):
-experimental methods and statistics 
+- What is shown first?
+- What makes information appear popular or trustworthy?
+- What changes when users can shape their feeds?
+- How can platforms support judgments about questionable information without telling users what to believe?
 
-December: check point & brainstorm
-Dec 3 - 17: 
-Students choose their topic & project mentor. 
-Mentoring sessions of 90 mins split among groups 
+## Course Structure
 
-Dec 10: presentation of the idea 
+The course runs for two semesters (about four hours per week), with an in-class session every **Thursday**.
 
-## Grading rubrik 
-Grading: 2 components: 
-- Work ethics: Peer grading of how well a person works in group 
-- research writeup & presentation: Mentor grading & peer review 
+**Semester 1 (15.10.2026–17.12.2026)** introduces algorithmic curation and experimental research. Alongside the lectures, students develop research questions, study designs, and materials.
 
-Students do not need to maximize every dimension, but their proposal must make a compelling choice across them:
-- Intervention depth: Is the algorithmic/design manipulation meaningful and clearly specified?
-Experimental leverage: Can the study plausibly identify a causal effect?
-- Measurement depth: Does it capture more than a single generic attitude item?
-Process evidence: Does it tell us something about how or why the effect occurred?
-- Feasibility: Can it be built, piloted, run, and analyzed within the course?
+**Semester 2** focuses on running studies, analyzing data, and interpreting and presenting results.
 
-A useful rule of thumb is:
-If the intervention is simple, add depth through repeated measures, behavioral traces, qualitative evidence, or mechanism tests.
-If the intervention is complex, keep the comparison and outcome model clean enough to interpret.
+### Semester 1 Schedule
 
-- Complicated algo manipulation - simpler outcomes (anova with normal distributions)
-    - Turning timeline into tunable knobs for parameters. Students can change this  
-- Simpler manipulation - more complicated stats-wise (e.g., vignette-based with multiple measurements, more like psychometrics) 
+| Dates | Lead | Focus |
+|---|---|---|
+| 15.10.2026 | / | Course introduction |
+| 22.10.2026 – 05.11.2026 | Bao | Theoretical background on algorithmic curation (Lectures 1–3) |
+| 12.11.2026 – 26.11.2026 | Kamil | Experimental methods and statistics |
+| 03.12.2026 – 17.12.2026 | / | Checkpoints and brainstorming; topic and mentor selection; 90-minute group mentoring sessions |
+| 10.12.2026 | / | Idea presentation |
 
-| Pathway | Intervention/stimulus | Typical design | Outcomes |
+### Lectures 1–3: Algorithmic Curation
+
+These lectures provide the foundation for students’ research questions.
+
+1. **What does an algorithmically curated feed do?**
+2. **Effects of curation** — credibility, diversity, information environments, feedback loops, and user control.
+3. **Literature review** — key studies in the field.
+
+## Grading
+
+### Components
+
+| Component | Weight | Graded by |
+|---|---|---|
+| Work ethic | 30% | Peer grading of contribution to group work |
+| Research write-up | 45% | Mentor grading and peer review |
+| Presentation | 25% | Mentor grading and peer review |
+
+*These proposed weights may be adjusted before the course begins.*
+
+### Proposal Evaluation Dimensions
+
+Proposals need not maximize every dimension, but they should make a compelling trade-off among them:
+
+- **Intervention depth** — Is the algorithmic or design manipulation meaningful and clearly specified?
+- **Experimental leverage** — Can the study plausibly identify a causal effect?
+- **Measurement depth** — Does it capture more than one generic attitude item?
+- **Process evidence** — Does it reveal how or why the effect occurred?
+- **Feasibility** — Can it be built, piloted, run, and analyzed within the course?
+
+### Choosing a Scope
+
+> **Rule of thumb:** A simple intervention can support repeated measures, behavioral traces, qualitative evidence, or mechanism tests. With a complex intervention, keep comparisons and outcomes simple enough to interpret.
+
+A complex algorithmic manipulation should pair with focused outcomes—for example, a timeline with tunable parameters, assessed using ANOVA on normally distributed measures. A simpler manipulation can support richer measurement and analysis, such as a vignette design with repeated measures and psychometric-style outcomes.
+
+Two common pathways:
+
+| Pathway | Intervention / stimulus | Typical design | Outcomes |
 |---|---|---|---|
-| A: Algorithm/design-intensive | Working timeline modification, adaptive ranking rule, interaction tool, feedback loop, or information-navigation interface | Usually between-subjects, one or a few conditions | Clear and focused: click/share choices, perceived control, recall, trust, satisfaction |
-| B: Measurement/design-intensive | Vignette, prototype screenshots, short feed simulation, focus-test materials, or a simple one-shot manipulation | Within-person, repeated judgments, multi-stage task, think-aloud, process tracing, or session-log analysis | Richer: changes across items/time, trade-offs, mechanisms, heterogeneity, navigation strategies |
+| **A: Algorithm/design-intensive** | Timeline modification, adaptive ranking rule, interaction tool, feedback loop, or navigation interface | Usually between-subjects, with one or a few conditions | Focused: click/share choices, perceived control, recall, trust, or satisfaction |
+| **B: Measurement/design-intensive** | Vignette, prototype screenshots, short feed simulation, focus-test materials, or a simple one-shot manipulation | Within-person; repeated judgments; multi-stage task; think-aloud; process tracing; or session-log analysis | Richer: change over time and across items, trade-offs, mechanisms, heterogeneity, or navigation strategies |
 
-About the instructors:
-Kamil Fuławka
-Trained as a psychologist, he specializes in understanding how individuals make decisions under risk and uncertainty. His core research interests focus on the (dis)adaptive roles of emotions and heuristics in decision-making and the dynamics of the decision-making process itself. Kamil’s research motivation is fueled by challenges in health-related decisions, such as vaccine hesitancy and food choices, and the impact of contemporary affective (emotional) propaganda on political preferences. His work integrates various methods, including computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports with large language models.  (placeholder for photo. only for .pptx) 
+## Instructors
 
-Bao T. Truong 
-(placeholder for my photo. only for .pptx) 
-Trained in Network science and Informatics. I am interested in how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. In particular, I study how design choices such as ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
+### Kamil Fuławka
 
+Kamil is a psychologist who studies decision-making under risk and uncertainty. His research examines the adaptive and maladaptive roles of emotions and heuristics, as well as the dynamics of decision processes. He is particularly interested in health decisions—such as vaccine hesitancy and food choices—and in affective propaganda’s influence on political preferences. His work combines computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports using large language models.
 
+### Bao T. Truong
 
+Bao is trained in network science and informatics and studies how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. His work examines how ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
