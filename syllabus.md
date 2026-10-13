@@ -5,6 +5,16 @@
 **Location:** BZW/A255 (default) or on Zoom (TBA in previous week)
 ---
 
+## Instructors
+
+### Kamil Fuławka
+
+Kamil is a psychologist who studies decision-making under risk and uncertainty. His research examines the adaptive and maladaptive roles of emotions and heuristics, as well as the dynamics of decision processes. He is particularly interested in health decisions—such as vaccine hesitancy and food choices—and in affective propaganda’s influence on political preferences. His work combines computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports using large language models.
+
+### Bao T. Truong
+
+Bao is trained in network science and informatics and studies how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. His work examines how ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
+
 ## Course Description
 
 This course examines how social media and other information platforms shape everyday decisions. Students will investigate questions such as:
@@ -58,13 +68,13 @@ These lectures provide the domain knowledge to inform students’ research quest
 
 ### How to choose a project? 
 
-A project can contribute through a more realistic/manipulable algorithmic intervention, or through richer measurement of human response—but it needs sufficient sophistication on at least one side. When thinking about the project, it's useful to 
+A project can contribute through a more realistic/manipulable algorithmic intervention, or through richer measurement of human response—but it needs sufficient sophistication on at least one side. When thinking about the project, it's useful to think about these aspects: 
 
-- **Intervention depth** — Is the algorithmic or design manipulation meaningful and clearly specified?
-- **Experimental leverage** — Can the study plausibly identify a causal effect?
-- **Measurement depth** — Does it capture more than one generic attitude item?
-- **Process evidence** — Does it reveal how or why the effect occurred?
-- **Feasibility** — Can it be built, piloted, run, and analyzed within the course?
+- Intervention depth — Is the algorithmic or design manipulation meaningful and clearly specified?
+- Experimental leverage — Can the study plausibly identify a causal effect?
+- Measurement depth — Does it capture more than one generic attitude item?
+- Process evidence — Does it reveal how or why the effect occurred?
+- Feasibility — Can it be built, piloted, run, and analyzed within the course?
 
 ### Choosing a Scope
 
@@ -79,12 +89,3 @@ Two common pathways:
 | **A: Algorithm/design-intensive** | Timeline modification, adaptive ranking rule, interaction tool, feedback loop, or navigation interface | Usually between-subjects, with one or a few conditions | Focused: click/share choices, perceived control, recall, trust, or satisfaction |
 | **B: Measurement/design-intensive** | Vignette, prototype screenshots, short feed simulation, focus-test materials, or a simple one-shot manipulation | Within-person; repeated judgments; multi-stage task; think-aloud; process tracing; or session-log analysis | Richer: change over time and across items, trade-offs, mechanisms, heterogeneity, or navigation strategies |
 
-## Instructors
-
-### Kamil Fuławka
-
-Kamil is a psychologist who studies decision-making under risk and uncertainty. His research examines the adaptive and maladaptive roles of emotions and heuristics, as well as the dynamics of decision processes. He is particularly interested in health decisions—such as vaccine hesitancy and food choices—and in affective propaganda’s influence on political preferences. His work combines computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports using large language models.
-
-### Bao T. Truong
-
-Bao is trained in network science and informatics and studies how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. His work examines how ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
