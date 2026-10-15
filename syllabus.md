@@ -38,7 +38,7 @@ The course runs for two semesters (about four hours per week), with an in-class 
 |---|---|---|
 | 15.10.2026 | / | Course introduction |
 | 22.10.2026 – 05.11.2026 | Bao | Theoretical background on algorithmic curation (Lectures 1–3) |
-| 12.11.2026 – 26.11.2026 | Kamil | Experiments --- why, what, and how (Lectures 4-6) |
+| 12.11.2026 – 26.11.2026 | Kamil | Experiments & Operationalization --- why, what, and how (Lectures 4-6) |
 | 03.12.2026 | / | Checkpoints and brainstorming; topic and mentor selection; 90-minute group mentoring sessions |
 | 10.12.2026 | / | Presentation of research proposal |
 | 17.12.2026 | / | Optional mentoring session & Submission of Intro draft |
