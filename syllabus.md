@@ -1,21 +1,7 @@
-# Understanding Algorithmic Curation Through Experimentation
+# Syllabus 
 
-**Instructors:** Kamil Fuławka · Bao T. Truong
-**Duration:** Two semesters · Starts 15.10.2026
-**Location:** BZW/A255 (default) or on Zoom (TBA in previous week)
----
 
-## Instructors
-
-### Kamil Fuławka
-
-Kamil is a computational psychologist who studies decision-making. His research examines the adaptive and maladaptive roles of emotions and heuristics, as well as the dynamics of decision processes. His work combines computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports using large language models.
-
-### Bao T. Truong
-
-Bao is trained in network science and informatics and studies how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. Her work examines how ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
-
-## Course Description
+## Understanding Algorithmic Curation Through Experimentation - Course Description
 
 Over two semesters, students in groups of 3-4 will develop and conduct an experimental research project on a topic related to the influence of algorithmic feed curation on digital media platforms on people's preferences, attitudes and similar outcomes. The research project involves: 
 1. Developing a research question based on scientific literature.
@@ -24,7 +10,13 @@ Over two semesters, students in groups of 3-4 will develop and conduct an experi
 4. Writing a research report (i.e. mini scientific paper) consisting of four sections:
    - Introduction, Methods, Results, Discussion (and references).
 
-## Course Structure
+## Instructors
+
+Kamil Fuławka is a computational psychologist who studies decision-making. His research examines the adaptive and maladaptive roles of emotions and heuristics, as well as the dynamics of decision processes. His work combines computational modeling, behavioral and process-tracing experiments, and automated analysis of subjective reports using large language models.
+
+Bao T. Truong is trained in network science and informatics and studies how digital platforms shape people’s information environments: what they see, how they interpret it, and how they can influence it. Her work examines how ranking, labels, feedback signals, user controls, and community-based context affect attention, trust, sharing, and decision-making.
+
+## Schedule
 
 The course runs for two semesters (about four hours per week), with an in-class session every **Thursday**.
 
@@ -62,11 +54,11 @@ These lectures provide the domain knowledge to inform students’ research quest
 
 | Component | Weight | Graded by |
 |---|---|---|
-| Work ethic | 25% | Peer grading of contribution to group work |
-| Research report | 50% | Mentor grading |
-| Presentation | 25% | Mentor grading & peer rating |
+| Work ethic - contribution to group work | 25% | Peers |
+| Research report | 50% | Mentors |
+| Presentation | 25% | Mentors &  peers |
 
-### How to choose a project? 
+## How to choose a project? 
 
 A project can contribute through a more realistic/manipulable algorithmic intervention, or through richer measurement of human response—but it needs sufficient sophistication on at least one side. When thinking about the project, it's useful to think about these aspects: 
 
