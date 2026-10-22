@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Instructor** | Dr. Kamil Fuławka & Dr. Bao T. Truong |
-| **Time** | Thursdays, 15:50-17:20 |
+| **Time** | Thursdays, 14:50-16:20 |
 | **Language** | English |
 | **Duration** | Two semesters · Semester 1 from 15.10.2026 - 28.01.2027 | 
 | **Location** | BZW/A255 (default) or on Zoom (TBA in previous week) |
